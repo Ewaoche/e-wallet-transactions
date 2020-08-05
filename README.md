@@ -4,7 +4,7 @@ Import the database from sql folder and get database credentials from includes f
  Users should register and sign in to make transactions.
  The senders and receivers must be registered in the system for successful transaction.
  Transactions based on emails of customers.
- password are not harshed because there is no password recovery feature yet.
+ password are not harshed because there is no password recovery feature yet and so other payments done can be checked.
  paystack api was used with my api test key.
  
 
